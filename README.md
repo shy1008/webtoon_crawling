@@ -1,2 +1,4 @@
 # webtoon_crawling
-H - webtoon data crawling
+
+
+셀레니움을 활용하여 특정 사이트에서 필요한 데이터 수집 후 엑셀파일로 추출과정
